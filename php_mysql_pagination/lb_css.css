@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navigation a {
+    font-family: 'Droid Sans', verdana;
+    font-weight: bold;
+    font-size: 18px;
+    padding-right: 10px;
+    color: #494949;
+    text-decoration: none;
+    cursor: pointer;
+}
+.navigation .current {
+    color: #FF0000;
+}
+
